@@ -1,10 +1,10 @@
-<h1 align="center"> Desafio 01 </h1>
+<h1 align="center"> Desafio 02 </h1>
 
 
 <br>
 
 <p align="center">
-  <img alt="imagem do projeto" src="preview/readme.jpeg" width="100%">
+  <img alt="imagem do projeto" src="images/readme.jpeg" width="100%">
 </p>
 
 ## Sobre o desafio
